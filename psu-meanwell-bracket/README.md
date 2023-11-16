@@ -37,8 +37,7 @@ Filament material: PLA
 
 ## Future Work
 
-I would like to experiment with adding a little more ventilation to the bracket
-without making the bracket too weak.
+Add mounting holes for a fan.
 
 Once a tick circuit is finished, I'd like to add a place to mount it on this
 bracket.
