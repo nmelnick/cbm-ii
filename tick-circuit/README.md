@@ -4,6 +4,12 @@ This is a work in progress, largely copied from the
 [Mix and Tick](http://aminet.net/package/docs/hard/Mix_and_Tick)
 by Michael Schulz.
 
+This will take a +5V and GND input from a power supply and output a 50 or 60 Hz
+square wave from J2, depending on the quartz crystal placed at X1. This circuit
+has been prototyped with the 3.93216 MHz crystal, providing 60 Hz. The PCB in
+place comes from someone who has never done a PCB before, and this version is
+currently on order.
+
 ## BOM
 
 | Part             | Quantity | Location |
