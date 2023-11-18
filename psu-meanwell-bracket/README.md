@@ -38,6 +38,3 @@ Filament material: PLA
 ## Future Work
 
 Add mounting holes for a fan.
-
-Once a tick circuit is finished, I'd like to add a place to mount it on this
-bracket.
