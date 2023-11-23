@@ -11,6 +11,8 @@ https://www.nmelnick.com/the-vintage-collection/commodore-b128/
 ## Contents
 
 * [psu-meanwell-bracket](psu-meanwell-bracket): Bracket to mount a Meanwell
-  RT-65B power supply in the B128 case.
+  RT-65B power supply in the B128 case
 * [teensy-keyboard](teensy-keyboard): Source code for interfacing the keyboard
   to a modern USB computer using a Teensy++ 2.0
+* [tick-circuit](tick-circuit): Create a 50/60 Hz square wave tick circuit from
+  a 5V input
