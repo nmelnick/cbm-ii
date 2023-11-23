@@ -2,3 +2,4 @@ tick-circuit/**.lck
 tick-circuit/**-backups
 tick-circuit/fp-info-cache
 tick-circuit/#**
+tick-circuit/gerber
