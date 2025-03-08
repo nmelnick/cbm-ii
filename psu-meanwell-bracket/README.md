@@ -7,15 +7,14 @@ created by measuring the posts within the case, and merging that base bracket
 with an [existing mount](https://www.thingiverse.com/thing:4789768).
 
 You may use M3 screws to mount the PSU to the bracket, and the existing screws
-to mount the bracket to the case. The edge of the bracket should face the rear
-of the case so that the wires drop down the middle.
+to mount the bracket to the case. The edge with the side coming up should face
+the keyboard, allowing the wiring to come out toward the left of the case.
 
 ## Print Settings
 
 I have a Neptune 3, and the print area is slightly smaller than the bracket. I
-end up rotating it on its side, and shifting the bracket 45 degrees on the Z
-axis to fit my print area. If your print area is large enough, print with the
-larger base on the bed, and no supports.
+end up rotating the x-axis just enough for it to turn green, watching carefully
+for the perimeter generated during slicing.
 
 Printer brand: Neptune
 
