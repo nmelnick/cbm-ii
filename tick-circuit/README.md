@@ -7,8 +7,7 @@ by Michael Schulz.
 This will take a +5V and GND input from a power supply and output a 50 or 60 Hz
 square wave from J2, depending on the quartz crystal placed at X1. This circuit
 has been prototyped with the 3.93216 MHz crystal, providing 60 Hz. The V1
-circuit has been ordered and used successfully in a Commodore B128. The V2
-circuit is on order for testing.
+and V2 circuits have been ordered and used successfully in a Commodore B128. 
 
 ## BOM
 
